@@ -2,7 +2,6 @@
 echo "Hello world"
 sleep 2
 echo "Подождали"
-sudo apt-get update 
 sudo apt-get upgrade -y 
 sudo apt install git -y 
 apt-get install -y python3 python3-pip 
